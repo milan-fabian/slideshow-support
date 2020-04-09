@@ -4,4 +4,4 @@ This repository is for creating, discussing and tracking bug reports, feature re
 
 **There is no source code in this repository, Slideshow is not open-source software.**
 
-Find more information about Slideshow software on https://slideshow.milanfabian.com/ or download it directly on https://slideshow.milanfabian.com/how-to-get-it/.
+Find more information about Slideshow software on https://slideshow.digital/ or download it for free on https://slideshow.digital/how-to-get-it/.
